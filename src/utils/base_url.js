@@ -1,0 +1,1 @@
+export const base_url = "https://graceful-frog-parka.cyclic.app/api/"
